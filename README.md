@@ -8,7 +8,7 @@ My name is Maimuna I am currently a data science fellow at The Knowledge House.
 - ⚡ Fun fact: I was obessessed with Twilight series in middle school #teamjacob
   
  
-  Skills
-- Programming Python
-- Data Maniplution Pandas
-- Data Visulazition Tabelau
+## Skills
+- # Programming Python
+- # Data Maniplution Pandas
+- # Data Visulazition Tabelau
