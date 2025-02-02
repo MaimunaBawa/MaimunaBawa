@@ -5,12 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on end of phase one group project
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on end of phase one TKH group project
+- 🌱 I’m currently learning python
+- 📫 How to reach me on linkedin: https://www.linkedin.com/in/maimuna-bawa/ or via email 📧 maimunahamidubawa@gmail.com
 - 😄 Pronouns:she/her
 - ⚡ Fun fact: ...
 -->
