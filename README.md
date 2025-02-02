@@ -3,6 +3,8 @@
 <!--
 **MaimunaBawa/MaimunaBawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Skills
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on end of phase one TKH group project
